@@ -10,8 +10,9 @@ header {
     src: url(fonts/potato.ttf);
 }
 	  body {
-         background: red;
-         background-image: url(zverx.jpg);
+         background:
+			linear-gradient(rgb(0, 0, 0), rgb(1, 4, 10)),
+			url("");
 			background-repeat: no-repeat;
          background-attachment:fixed;
          background-position: center;
